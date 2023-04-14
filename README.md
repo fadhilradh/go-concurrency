@@ -1,6 +1,6 @@
 # go-concurrency
 
-### Step by step implementation of Golang concurrency, using 
+### Step by step implementation of Golang concurrency, built up from basic in the order :
 - [x] time.Sleep, 
 - [x] Scanln(), 
 - [x] waitGroup
